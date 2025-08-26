@@ -27,18 +27,11 @@ Um curioso incansável que gosta de resolver problemas, criar soluções e, clar
 ---
 
 ### 📫 Como me encontrar?
-- [LinkedIn](https://www.linkedin.com/in/luanpaula)  
+- [LinkedIn](https://www.linkedin.com/in/luandepaula)  
 - [GitHub](https://github.com/luanpaula)  
 - [Meu repositório de Gerenciamento de Projetos](https://github.com/luanpaula/project-management)  
 
 Pode me chamar para trocar ideias sobre código, produtividade ou só bater um papo sobre tecnologia. Estou sempre aberto para colaborar 🤝 e aprender junto!  
-
----
-
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/luanpaula/count.svg" />
-</p>
 
 ---
 
