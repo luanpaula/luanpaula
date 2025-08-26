@@ -3,12 +3,7 @@
 Eu sou **Luan de Paula**.  
 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de aprender, compartilhar conhecimento e criar projetos que façam a diferença. 🚀  
 
-Tenho experiência com **Node.js, JavaScript, Python, HTML, CSS e EJS** e gosto muito de desenvolver aplicações web que envolvam **organização, produtividade e colaboração**. Além disso, curto explorar novas ferramentas, participar de comunidades e contribuir em projetos de código aberto. ⚡
-
----
-
-### 😄 Pronomes
-Ele/Dele
+Tenho experiência com **Node.js, JavaScript, Python, HTML e CSS** e gosto muito de desenvolver aplicações web que envolvam **organização, produtividade e colaboração**. ⚡
 
 ---
 
